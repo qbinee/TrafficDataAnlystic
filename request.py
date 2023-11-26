@@ -8,10 +8,10 @@ params = {
     "type": "all",
     "routeNo": "1",
     "drcType": "all",
-    "minX": "127.068227",
+    "minX": "127.060096",
     "maxX": "127.069591",
     "minY": "37.293782",
-    "maxY": "37.298719",
+    "maxY": "37.299632",
     "getType": "json"
 }
 
